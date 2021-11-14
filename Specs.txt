@@ -1,0 +1,13 @@
+Jinja2-3.0.3 
+MarkupSafe-2.0.1
+Werkzeug-2.0.2 
+click-8.0.3 
+colorama-0.4.4
+flask-2.0.2 
+itsdangerous-2.0.1
+SQLAlchemy-1.4.27 
+flask-sqlalchemy-2.5.1 
+greenlet-1.1.2
+python 3.10.0
+marshmallow-sqlalchemy-0.26.1
+flask_marshmallow-0.14.0
